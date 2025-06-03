@@ -13,5 +13,6 @@
     ```bash
     docker compose run chatbot bash
     pip install --no-cache-dir -r requirements.txt
+    cd practices
     python 02-advanced-chatbot-001-simple-chatbot.py
     ```
